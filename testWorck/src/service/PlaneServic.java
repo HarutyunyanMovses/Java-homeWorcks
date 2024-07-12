@@ -42,7 +42,7 @@ public class PlaneServic {
         } else if (p3.getSeats() < p1.getSeats() && p3.getSeats() < p2.getSeats()) {
             System.out.println(p3.getCountry());
         } else {
-            System.out.println(p3.getCountry());
+            System.out.println(p1.getCountry());
         }
     }
 

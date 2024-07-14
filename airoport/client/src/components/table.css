@@ -1,0 +1,36 @@
+/* Table.css */
+
+.table-container {
+    margin: 10px;
+    border: 1px solid #3498db; /* Голубой цвет границы */
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Тень для контейнера */
+}
+
+.table-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-container th, .table-container td {
+    padding: 12px; /* Увеличение внутреннего отступа ячеек */
+    text-align: left;
+    border-bottom: 2px solid #3498db; /* Голубой цвет разделительной линии */
+}
+
+.table-container th {
+    background-color: #2980b9; /* Цвет фона заголовков столбцов */
+    color: white; /* Белый цвет текста в заголовках */
+}
+
+.table-container tbody tr:hover {
+    background-color: #f2f2f2; /* Светлосерый цвет фона строки при наведении */
+    transition: background-color 0.3s ease; /* Плавное изменение цвета фона */
+}
+
+/* Дополнительные стили для текста в ячейках */
+.table-container td {
+    color: #333; /* Чёрный цвет текста в ячейках */
+    font-weight: 500; /* Жирный шрифт для текста в ячейках */
+}

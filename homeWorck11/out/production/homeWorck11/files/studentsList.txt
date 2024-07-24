@@ -1,0 +1,10 @@
+John,Doe,Male,2021,90.5
+Jane,Smith,Female,2020,88.0
+Emily,Jones,Female,2019,91.2
+Michael,Johnson,Male,2018,85.6
+Sarah,Brown,Female,2017,87.4
+David,Wilson,Male,2016,82.3
+Laura,Garcia,Female,2015,89.8
+James,Martinez,Male,2014,78.9
+Olivia,Anderson,Female,2013,92.1
+William,Thomas,Male,2012,84.5
